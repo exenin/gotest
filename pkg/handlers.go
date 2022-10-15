@@ -1,7 +1,7 @@
     package handlers
 
     import (
-      "github.com/exenin/golambda/pkg/user"
+      "github.com/exenin/gotest/pkg/user"
       "net/http"
 
       "github.com/aws/aws-lambda-go/events"

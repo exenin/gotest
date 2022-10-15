@@ -4,7 +4,7 @@
     "encoding/json"
     "errors"
 
-    "github.com/exenin/golambda/pkg/validators"
+    "github.com/exenin/gotest/pkg/validators"
 
     "github.com/aws/aws-lambda-go/events"
     "github.com/aws/aws-sdk-go/aws"

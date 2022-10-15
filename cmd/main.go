@@ -1,6 +1,6 @@
   package main
   import (
-    "github.com/exenin/golambda/pkg/handlers"
+    "github.com/exenin/gotest/pkg/handlers"
     "os"
     "github.com/aws/aws-lambda-go/events"
     "github.com/aws/aws-lambda-go/lambda"
